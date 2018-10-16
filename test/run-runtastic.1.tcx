@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TrainingCenterDatabase version="1.0" creator="Runtastic: Life is short - live long, http://www.runtastic.com" xsi:schemaLocation="http://www.garmin.com/xmlschemas/TrainingCenterDatabase/v2 http://www.garmin.com/xmlschemas/TrainingCenterDatabasev2.xsd" xmlns:ns5="http://www.garmin.com/xmlschemas/ActivityGoals/v1" xmlns:ns3="http://www.garmin.com/xmlschemas/ActivityExtension/v2" xmlns:ns2="http://www.garmin.com/xmlschemas/UserProfile/v2" xmlns="http://www.garmin.com/xmlschemas/TrainingCenterDatabase/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns4="http://www.garmin.com/xmlschemas/ProfileExtension/v1">
+  <Activities>
+    <Activity Sport="running">
+      <Id>2018-06-20T16:40:35.000Z</Id>
+      <Lap StartTime="2018-06-20T16:40:35.000Z">
+        <TotalTimeSeconds>5460</TotalTimeSeconds>
+        <DistanceMeters>13016</DistanceMeters>
+        <Calories>1206</Calories>
+        <AverageHeartRateBpm>
+          <Value>146</Value>
+        </AverageHeartRateBpm>
+        <MaximumHeartRateBpm>
+          <Value>158</Value>
+        </MaximumHeartRateBpm>
+        <MaximumSpeed>5.649371111111111111111111111</MaximumSpeed>
+        <TriggerMethod>Manual</TriggerMethod>
+        <Track>
+          <Trackpoint>
+            <Time>2018-06-20T16:40:35.000Z</Time>
+            <HeartRateBpm>
+              <Value>94</Value>
+            </HeartRateBpm>
+            <DistanceMeters>0</DistanceMeters>
+            <AltitudeMeters>35.599998474121094</AltitudeMeters>
+            <Position>
+              <LatitudeDegrees>40.4898529052734375</LatitudeDegrees>
+              <LongitudeDegrees>22.2561473846435547</LongitudeDegrees>
+            </Position>
+          </Trackpoint>  
+        </Track>
+      </Lap>
+    </Activity>
+  </Activities>
+</TrainingCenterDatabase>

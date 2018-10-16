@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TrainingCenterDatabase
+  xsi:schemaLocation="http://www.garmin.com/xmlschemas/TrainingCenterDatabase/v2 http://www.garmin.com/xmlschemas/TrainingCenterDatabasev2.xsd"
+  xmlns:ns5="http://www.garmin.com/xmlschemas/ActivityGoals/v1"
+  xmlns:ns3="http://www.garmin.com/xmlschemas/ActivityExtension/v2"
+  xmlns:ns2="http://www.garmin.com/xmlschemas/UserProfile/v2"
+  xmlns="http://www.garmin.com/xmlschemas/TrainingCenterDatabase/v2"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns4="http://www.garmin.com/xmlschemas/ProfileExtension/v1">
+  <Activities>
+    <Activity Sport="Running">
+      <Id>2018-06-29T17:46:33.000Z</Id>
+      <Lap StartTime="2018-06-29T18:17:32.000Z">
+        <TotalTimeSeconds>345.0</TotalTimeSeconds>
+        <DistanceMeters>1000.0</DistanceMeters>
+        <MaximumSpeed>3.5829999446868896</MaximumSpeed>
+        <Calories>78</Calories>
+        <AverageHeartRateBpm>
+          <Value>147</Value>
+        </AverageHeartRateBpm>
+        <MaximumHeartRateBpm>
+          <Value>156</Value>
+        </MaximumHeartRateBpm>
+        <Intensity>Active</Intensity>
+        <TriggerMethod>Manual</TriggerMethod>
+        <Track>          
+          <Trackpoint>
+            <Time>2018-06-29T18:23:19.000Z</Time>
+            <Position>
+              <LatitudeDegrees>40.544405579566956</LatitudeDegrees>
+              <LongitudeDegrees>22.233463441953063</LongitudeDegrees>
+            </Position>
+            <AltitudeMeters>57.0</AltitudeMeters>
+            <DistanceMeters>5130.22998046875</DistanceMeters>
+            <HeartRateBpm>
+              <Value>156</Value>
+            </HeartRateBpm>
+            <Extensions>
+              <ns3:TPX>
+                <ns3:Speed>2.8550000190734863</ns3:Speed>
+                <ns3:RunCadence>87</ns3:RunCadence>
+              </ns3:TPX>
+            </Extensions>
+          </Trackpoint>
+        </Track>
+        <Extensions>
+          <ns3:LX>
+            <ns3:AvgSpeed>2.589999914169311</ns3:AvgSpeed>
+            <ns3:AvgRunCadence>87</ns3:AvgRunCadence>
+            <ns3:MaxRunCadence>87</ns3:MaxRunCadence>
+          </ns3:LX>
+        </Extensions>
+      </Lap>
+      <Creator xsi:type="Device_t">
+        <Name>Forerunner 230</Name>
+        <UnitId>3937251354</UnitId>
+        <ProductID>2157</ProductID>
+        <Version>
+          <VersionMajor>7</VersionMajor>
+          <VersionMinor>70</VersionMinor>
+          <BuildMajor>0</BuildMajor>
+          <BuildMinor>0</BuildMinor>
+        </Version>
+      </Creator>
+    </Activity>
+  </Activities>
+  <Author xsi:type="Application_t">
+    <Name>Garmin Connect API</Name>
+    <Build>
+      <Version>
+        <VersionMajor>18</VersionMajor>
+        <VersionMinor>16</VersionMinor>
+        <BuildMajor>7</BuildMajor>
+        <BuildMinor>7</BuildMinor>
+      </Version>
+    </Build>
+    <LangID>en</LangID>
+    <PartNumber>006-D2449-00</PartNumber>
+  </Author>
+</TrainingCenterDatabase

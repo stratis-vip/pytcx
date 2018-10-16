@@ -1,0 +1,8 @@
+*.json
+bin
+activate
+libs
+libs
+include
+.vscode
+.idea
