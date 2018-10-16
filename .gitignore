@@ -2,7 +2,7 @@
 bin
 activate
 libs
-libs
+lib
 include
 .vscode
 .idea
